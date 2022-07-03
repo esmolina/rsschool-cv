@@ -1,1 +1,1 @@
-# rsschool-cv
+https://esmolina.github.io/rsschool-cv/cv
