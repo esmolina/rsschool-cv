@@ -1,44 +1,49 @@
 # __ELENA SMOLINA__
-# __JS Front-End developer (beginer)__
+## __JS Front-End developer (beginer)__
 ![photo](./assets/img/Photo.JPG "MyPhoto")
-##__SUMMARY__
+## __SUMMARY__
 My goal is to become a JS Front-End Developer.
 I like to create new things, constantly learn and develop.
+
 Now I work in the field of finance, I am a bank analyst. I know how different business areas work and often communicate with interesting people.
 And I'm interested in various applications and sites that are necessary for the operation of any business.
+
+
 My priorities:
 * the opportunity to acquire and develop professional skills
 * participation in various projects
 * the ability to travel and work from anywhere in the world
 * polite and respectful attitude towards other people
 
-###***Skills***
+### ***Skills***
 HTML, CSS, GIT
 
-###***Projects***
+### ***Projects***
 [cv-project](https://esmolina.github.io/rsschool-cv/)
 
-###***Code***
+### ***Code***
 ```
 function multiply(a, b){
   a * b
 }
 ```
 
-###***Education***
+### ***Education***
 I have an economic education
 Volga State University of Water Transport Faculty of Economics and Management specialization Finance and Credit Nizhny Novgorod, Russia 
 
-###***Courses***
+### ***Courses***
 ![RSLogo](./assets/svg/RSLogo.svg "RSLogo")
 
 The Rolling Scopes «JavaScript/Front-end.Stage 0» 
 [RSSchool](https://wearecommunity.io/events/js-stage0-rs-2022q2)
 
-###***English***
+### ***English***
 Pre-Intermediate [Englex](www.englex.ru)
 
-###***Contacts***
+### ***Contacts***
 E-mail: abcd@gmail.com
+
 Telegram: @abcd
+
 Discord: esmolina#8170
