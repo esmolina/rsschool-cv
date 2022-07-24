@@ -1,10 +1,44 @@
-# __Образование__
-1.  Средняя общеобразовательная школа №64 г.Нижний Новгород, Россия (1998-2008)
-2.  Волжский государственный университет Водного транспорта Факультет экономики и управления специализация Финансы и кредит г.Нижний Новгород, Россия (2008-2013)
-3.  ННГУ им.Н.И. Лобачевского Факультет Институт экономики и предпринимательства специализация Гражданское право г.Нижний Новгород, Россия (2015-2017)
-# __Опыт работы__
-## ПАО "НБД-Банк" (2013г - текущее время)
-* Отдел кредитования малого бизнеса июнь 2013-октябрь 2013, стажировка
-* Автозаводский дополнительный офис, специалист 2013-2016
-* Отдел учета и контроля ссудных операций, специалист 2016-2017
-* Кредитное управление, экономист 2017-2022
+# __ELENA SMOLINA__
+# __JS Front-End developer (beginer)__
+![photo](./assets/img/Photo.JPG "MyPhoto")
+##__SUMMARY__
+My goal is to become a JS Front-End Developer.
+I like to create new things, constantly learn and develop.
+Now I work in the field of finance, I am a bank analyst. I know how different business areas work and often communicate with interesting people.
+And I'm interested in various applications and sites that are necessary for the operation of any business.
+My priorities:
+* the opportunity to acquire and develop professional skills
+* participation in various projects
+* the ability to travel and work from anywhere in the world
+* polite and respectful attitude towards other people
+
+###***Skills***
+HTML, CSS, GIT
+
+###***Projects***
+[cv-project](https://esmolina.github.io/rsschool-cv/)
+
+###***Code***
+```
+function multiply(a, b){
+  a * b
+}
+```
+
+###***Education***
+I have an economic education
+Volga State University of Water Transport Faculty of Economics and Management specialization Finance and Credit Nizhny Novgorod, Russia 
+
+###***Courses***
+![RSLogo](./assets/svg/RSLogo.svg "RSLogo")
+
+The Rolling Scopes «JavaScript/Front-end.Stage 0» 
+[RSSchool](https://wearecommunity.io/events/js-stage0-rs-2022q2)
+
+###***English***
+Pre-Intermediate [Englex](www.englex.ru)
+
+###***Contacts***
+E-mail: abcd@gmail.com
+Telegram: @abcd
+Discord: esmolina#8170
