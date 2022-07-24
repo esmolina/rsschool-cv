@@ -1,8 +1,103 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
-     <title>Hello World!</title>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./css/style.css" />
+  <title>MySummary</title>
 </head>
+
 <body>
-     Hello World!
+  <header class="header">
+    <div class="container">
+      <nav class="nav">
+        <ul class="nav-list">
+          <li class="nav-item"><a href="#summary" class="nav-link">Summary</a></li>
+          <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+          <li class="nav-item"><a href="#projects" class="nav-link">Projects</a></li>
+          <li class="nav-item"><a href="#code" class="nav-link">Code</a></li>
+          <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+          <li class="nav-item"><a href="#courses" class="nav-link">Courses</a></li>
+          <li class="nav-item"><a href="#english" class="nav-link">English</a></li>
+          <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <main class="main">
+    <div class="description-centr">
+      <section>
+        <h1 class="section-title"><img src="./assets/img/Photo.JPG" alt="My photo" class="photo"><b>Elena Smolina</b></h1>
+        <h2 class="section-title">JS Front-End developer (beginer)</h2>
+      </section>
+      <section id="summary">
+        <h2 class="section-title">Summary</h2>
+        <p>My goal is to become a JS Front-End Developer.
+          I like to create new things, constantly learn and develop.
+          Now I work in the field of finance, I am a bank analyst. I know how different business areas work and often
+          communicate with interesting people.
+          And I'm interested in various applications and sites that are necessary for the operation of any business.
+        </p>
+        <p>My priorities:</p>
+        <ul>
+          <li>the opportunity to acquire and develop professional skills</li>
+          <li>participation in various projects</li>
+          <li>polite and respectful attitude towards other people</li>
+        </ul>
+      </section>
+    </div>
+    <div class="container main-container">
+      <section class="section" id="skills">
+        <h2 class="section-title">skills</h2>
+        <p>HTML, CSS, GIT</p>
+      </section>
+      <section class="section" id="projects">
+        <h2 class="section-title">Projects</h2>
+        <p><a href="https://esmolina.github.io/rsschool-cv/">My summary</a></p>
+      </section>
+      <section class="section" id="code">
+        <h2 class="section-title">Code</h2>
+        <pre>
+          function multiply(a, b){
+              a * b
+            }
+      </pre>
+      </section>
+      <section class="section" id="education">
+        <h2 class="section-title">Education</h2>
+        <p>I have an economic education: Volga State University of Water Transport Faculty of Economics and Management
+          specialization Finance and Credit Nizhny Novgorod, Russia </p>
+      </section>
+      <section class="section" id="courses">
+        <h2 class="section-title">Courses</h2>
+        <p>
+          <a href="https://wearecommunity.io/events/js-stage0-rs-2022q2">
+            The Rolling Scopes «JavaScript/Front-end.Stage 0»
+          </a>
+        </p>
+      </section>
+      <section class="section" id="english">
+        <h2 class="section-title">English </h2>
+        <p>Pre-Intermediate<a href="https://englex.ru/">(englex.ru)</a></p>
+      </section>
+    </div>
+  </main>
+  <footer>
+    <div id="contacts">
+      <p>Contacts:</p>
+      <ul class="contacts">
+        <li>E-mail: abcd@gmail.com</li>
+        <li>Telegram: @abcd</li>
+        <li>Disccord: esmolina#8170</li>
+      </ul>
+      <p>2022</p>
+    </div>
+    <div>
+      <div><a href="https://wearecommunity.io/events/js-stage0-rs-2022q2"><img src="./assets/svg/RSLogo.svg" alt="RS logo"></a></div>
+      <div><a href="https://github.com/esmolina/rsschool-cv"><img src="./assets/img/GitHubLogo.png" alt="GitHub logo" width="100" height="100"></a></div>
+    </div>
+  </footer>
 </body>
 </html>
