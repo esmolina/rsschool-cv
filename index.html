@@ -60,9 +60,14 @@
       <section class="section" id="code">
         <h2 class="section-title">Code</h2>
         <pre>
-          function multiply(a, b){
-              a * b
-            }
+    function explode(string) {
+      let result = '';
+      for (let i = 0; i < string.length; i++) {
+          result = `${result}${string[i]
+            .repeat(string[i])}`;
+      }
+    return result;
+    }
       </pre>
       </section>
       <section class="section" id="education">
@@ -90,7 +95,7 @@
       <ul class="contacts">
         <li>E-mail: abcd@gmail.com</li>
         <li>Telegram: @abcd</li>
-        <li>Disccord: esmolina#8170</li>
+        <li>Discord: esmolina#8170</li>
       </ul>
       <p>2022</p>
     </div>

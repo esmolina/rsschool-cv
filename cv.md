@@ -1,6 +1,6 @@
 # __ELENA SMOLINA__
 ## __JS Front-End developer (beginer)__
-![photo](./assets/img/Photo.JPG "MyPhoto")
+![photo](./assets/img/PhotoSmall.JPG "MyPhoto")
 ## __SUMMARY__
 My goal is to become a JS Front-End Developer.
 I like to create new things, constantly learn and develop.
@@ -20,12 +20,18 @@ HTML, CSS, GIT
 
 ### ***Projects***
 [cv-project](https://esmolina.github.io/rsschool-cv/)
+[travel] (https://github.com/rolling-scopes-school/esmolina-JSFEPRESCHOOL2022Q2.git)
 
 ### ***Code***
 ```
-function multiply(a, b){
-  a * b
-}
+    function explode(string) {
+      let result = '';
+      for (let i = 0; i < string.length; i++) {
+          result = `${result}${string[i]
+            .repeat(string[i])}`;
+      }
+    return result;
+    }
 ```
 
 ### ***Education***
